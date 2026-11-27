@@ -16,3 +16,11 @@ Zero-dependency Java library for validating cryptocurrency address formats and M
     <url>https://jitpack.io</url>
 </repository>
 ```
+
+
+## Official VeerSwap Channels
+
+- **Website**: https://veerswap.com/
+- **X (Twitter)**: https://x.com/veerswap
+- **Medium**: https://medium.com/@veerswap-official
+- **Telegram**: https://t.me/veerswap
